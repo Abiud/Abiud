@@ -13,8 +13,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1eyJlIwqTv-gX06AbFlyzqRRLLekJPJ9z/view?usp=sharing](https://drive.google.com/file/d/1eyJlIwqTv-gX06AbFlyzqRRLLekJPJ9z/view?usp=sharing)
 
-- ⚡ Fun fact **I love videogames 🎮**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abiud_cantu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abiud_cantu" height="30" width="40" /></a>
