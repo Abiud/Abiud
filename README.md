@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/abiud_cantu" target="blank"><img src="https://img.shields.io/twitter/follow/abiud_cantu?logo=twitter&style=for-the-badge" alt="abiud_cantu" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot, React**
+- 🌱 I’m currently learning **R and Python Data Analysis**
 
 - 👨‍💻 All of my projects are available at [abiudcantu.com](abiudcantu.com)
 
