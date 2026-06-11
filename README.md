@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at abiudcantu.com
 
-- 💬 Ask me about **Vue, Laravel**
-
 - 📫 How to reach me **abiudcantu@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1eyJlIwqTv-gX06AbFlyzqRRLLekJPJ9z/view?usp=sharing](https://drive.google.com/file/d/1eyJlIwqTv-gX06AbFlyzqRRLLekJPJ9z/view?usp=sharing)
