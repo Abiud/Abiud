@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **R and Python Data Analysis**
 
-- 👨‍💻 All of my projects are available at [abiudcantu.com](abiudcantu.com)
+- 👨‍💻 All of my projects are available at abiudcantu.com
 
 - 💬 Ask me about **Vue, Laravel**
 
